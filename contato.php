@@ -1,4 +1,4 @@
 <?php
+    echo "contato2";
     echo "contato";
-    echo "xyz abc def";
 ?>
